@@ -4,10 +4,10 @@
     "location": "http://xmage.today/java/jre-8u201-"
   },
   "XMage": {
-    "version": "1.4.61-wip3 (20260826T004500)",
-    "location": "https://github.com/z-512/mage/releases/download/v1.4.61-wip2/mage-bundle-wip2.zip",
+    "version": "1.4.61-09032026 (20260903T025828)",
+    "location": "https://github.com/z-512/mage/releases/download/v1.4.61-weekly_09032026/xmage_weekly_release_09032026.zip",
     "locations": [],
-    "full": "https://github.com/z-512/mage/releases/download/v1.4.61-wip2/mage-bundle-wip2.zip",
+    "full": "https://github.com/z-512/mage/releases/download/v1.4.61-weekly_09032026/xmage_weekly_release_09032026.zip",
     "torrent": "",
     "images": "",
     "Launcher": {
